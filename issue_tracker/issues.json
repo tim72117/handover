@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "description": "這是一個由 AI Agent 偵測到的範例問題：變數未定義",
+    "timestamp": "2026-03-25 15:23:48",
+    "is_completed": false
+  },
+  {
+    "id": 2,
+    "description": "前端頁面在舊版瀏覽器渲染異常",
+    "timestamp": "2026-03-25 15:23:53",
+    "is_completed": false
+  }
+]

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Skill contents excluded from handover repo
+.agent/skills/
+skill_server/skills/
