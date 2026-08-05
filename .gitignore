@@ -2,6 +2,10 @@
 __pycache__/
 *.pyc
 
+# Go build artifacts
+skill_server/skill_server
+skill_server/skill_server.exe
+
 # Skill contents excluded from handover repo
 .agent/skills/
 skill_server/skills/
